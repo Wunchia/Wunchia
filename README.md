@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sakurai
-- 👀 I’m interested in my interest
-- 🌱 I’m currently learning knowledge
-- 💞️ I’m looking to collaborate on feeding dog
+- 👋 Hi, I’m @Sakurai_Yum
+- 👀 I’m interested in Artificial Intelligence/Machine Learning
+- 🌱 I’m currently learning some basic knowledge about Computer Science/Mathematic
 - 📫 How to reach me :1668126007@qq.com
 
 <!---
