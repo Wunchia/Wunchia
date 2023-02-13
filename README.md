@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wenjia
+- 👋 Hi, I’m @Samurai_Yuk
 - 👀 I’m interested in Artificial Intelligence/Machine Learning
 - 🌱 I’m currently learning some basic knowledge about Computer Science/Mathematic
 - 📫 How to reach me :1668126007@qq.com
