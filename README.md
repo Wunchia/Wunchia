@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samurai_Yuk
-- 👀 I’m interested in Artificial Intelligence/Machine Learning
+- 👀 I’m interested in Artificial Intelligence/Game
 - 🌱 I’m currently learning some basic knowledge about Computer Science/Mathematic
 - 📫 How to reach me: wunchia@outlook.com
 
